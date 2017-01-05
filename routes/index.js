@@ -1,4 +1,3 @@
-'use strict';
 const express = require('express');
 const co = require('co');
 const db = require('../libs/db');
